@@ -1,0 +1,8 @@
+C:\Users\jonatas.pessoa\Documents\Programas C#\Vectors\RealNumbers\bin\Debug\RealNumbers.exe.config
+C:\Users\jonatas.pessoa\Documents\Programas C#\Vectors\RealNumbers\bin\Debug\RealNumbers.exe
+C:\Users\jonatas.pessoa\Documents\Programas C#\Vectors\RealNumbers\bin\Debug\RealNumbers.pdb
+C:\Users\jonatas.pessoa\Documents\Programas C#\Vectors\RealNumbers\obj\Debug\RealNumbers.csproj.AssemblyReference.cache
+C:\Users\jonatas.pessoa\Documents\Programas C#\Vectors\RealNumbers\obj\Debug\RealNumbers.csproj.SuggestedBindingRedirects.cache
+C:\Users\jonatas.pessoa\Documents\Programas C#\Vectors\RealNumbers\obj\Debug\RealNumbers.csproj.CoreCompileInputs.cache
+C:\Users\jonatas.pessoa\Documents\Programas C#\Vectors\RealNumbers\obj\Debug\RealNumbers.exe
+C:\Users\jonatas.pessoa\Documents\Programas C#\Vectors\RealNumbers\obj\Debug\RealNumbers.pdb

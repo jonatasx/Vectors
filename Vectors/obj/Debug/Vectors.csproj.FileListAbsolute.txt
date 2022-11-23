@@ -1,0 +1,8 @@
+C:\Users\jonatas.pessoa\Documents\Programas C#\Vectors\Vectors\bin\Debug\Vectors.exe.config
+C:\Users\jonatas.pessoa\Documents\Programas C#\Vectors\Vectors\bin\Debug\Vectors.exe
+C:\Users\jonatas.pessoa\Documents\Programas C#\Vectors\Vectors\bin\Debug\Vectors.pdb
+C:\Users\jonatas.pessoa\Documents\Programas C#\Vectors\Vectors\obj\Debug\Vectors.csproj.AssemblyReference.cache
+C:\Users\jonatas.pessoa\Documents\Programas C#\Vectors\Vectors\obj\Debug\Vectors.csproj.SuggestedBindingRedirects.cache
+C:\Users\jonatas.pessoa\Documents\Programas C#\Vectors\Vectors\obj\Debug\Vectors.csproj.CoreCompileInputs.cache
+C:\Users\jonatas.pessoa\Documents\Programas C#\Vectors\Vectors\obj\Debug\Vectors.exe
+C:\Users\jonatas.pessoa\Documents\Programas C#\Vectors\Vectors\obj\Debug\Vectors.pdb

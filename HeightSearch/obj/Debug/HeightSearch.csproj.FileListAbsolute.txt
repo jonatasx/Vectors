@@ -1,0 +1,8 @@
+C:\Users\jonatas.pessoa\Documents\Programas C#\Vectors\HeightSearch\bin\Debug\HeightSearch.exe.config
+C:\Users\jonatas.pessoa\Documents\Programas C#\Vectors\HeightSearch\bin\Debug\HeightSearch.exe
+C:\Users\jonatas.pessoa\Documents\Programas C#\Vectors\HeightSearch\bin\Debug\HeightSearch.pdb
+C:\Users\jonatas.pessoa\Documents\Programas C#\Vectors\HeightSearch\obj\Debug\HeightSearch.csproj.AssemblyReference.cache
+C:\Users\jonatas.pessoa\Documents\Programas C#\Vectors\HeightSearch\obj\Debug\HeightSearch.csproj.SuggestedBindingRedirects.cache
+C:\Users\jonatas.pessoa\Documents\Programas C#\Vectors\HeightSearch\obj\Debug\HeightSearch.csproj.CoreCompileInputs.cache
+C:\Users\jonatas.pessoa\Documents\Programas C#\Vectors\HeightSearch\obj\Debug\HeightSearch.exe
+C:\Users\jonatas.pessoa\Documents\Programas C#\Vectors\HeightSearch\obj\Debug\HeightSearch.pdb

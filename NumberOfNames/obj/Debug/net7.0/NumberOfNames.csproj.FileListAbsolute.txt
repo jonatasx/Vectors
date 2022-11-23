@@ -1,0 +1,15 @@
+C:\Users\jonatas.pessoa\Documents\Programas C#\Vectors\NumberOfNames\bin\Debug\net7.0\NumberOfNames.exe
+C:\Users\jonatas.pessoa\Documents\Programas C#\Vectors\NumberOfNames\bin\Debug\net7.0\NumberOfNames.deps.json
+C:\Users\jonatas.pessoa\Documents\Programas C#\Vectors\NumberOfNames\bin\Debug\net7.0\NumberOfNames.runtimeconfig.json
+C:\Users\jonatas.pessoa\Documents\Programas C#\Vectors\NumberOfNames\bin\Debug\net7.0\NumberOfNames.dll
+C:\Users\jonatas.pessoa\Documents\Programas C#\Vectors\NumberOfNames\bin\Debug\net7.0\NumberOfNames.pdb
+C:\Users\jonatas.pessoa\Documents\Programas C#\Vectors\NumberOfNames\obj\Debug\net7.0\NumberOfNames.csproj.AssemblyReference.cache
+C:\Users\jonatas.pessoa\Documents\Programas C#\Vectors\NumberOfNames\obj\Debug\net7.0\NumberOfNames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonatas.pessoa\Documents\Programas C#\Vectors\NumberOfNames\obj\Debug\net7.0\NumberOfNames.AssemblyInfoInputs.cache
+C:\Users\jonatas.pessoa\Documents\Programas C#\Vectors\NumberOfNames\obj\Debug\net7.0\NumberOfNames.AssemblyInfo.cs
+C:\Users\jonatas.pessoa\Documents\Programas C#\Vectors\NumberOfNames\obj\Debug\net7.0\NumberOfNames.csproj.CoreCompileInputs.cache
+C:\Users\jonatas.pessoa\Documents\Programas C#\Vectors\NumberOfNames\obj\Debug\net7.0\NumberOfNames.dll
+C:\Users\jonatas.pessoa\Documents\Programas C#\Vectors\NumberOfNames\obj\Debug\net7.0\refint\NumberOfNames.dll
+C:\Users\jonatas.pessoa\Documents\Programas C#\Vectors\NumberOfNames\obj\Debug\net7.0\NumberOfNames.pdb
+C:\Users\jonatas.pessoa\Documents\Programas C#\Vectors\NumberOfNames\obj\Debug\net7.0\NumberOfNames.genruntimeconfig.cache
+C:\Users\jonatas.pessoa\Documents\Programas C#\Vectors\NumberOfNames\obj\Debug\net7.0\ref\NumberOfNames.dll
